@@ -15,7 +15,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h1>CRUD Dasar With AJAX
+                <h1>CRUD Dasar With AJAX | Aditya Ridwan Nugraha
                     <div class="float-right"><a href="javascript:void(0);" class="btn btn-primary" data-toggle="modal" data-target="#Modal_Add">Tambah Data Gan!</a></div>
                 </h1>
             </div>
